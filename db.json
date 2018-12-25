@@ -1,14 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    {
+      "phoneNum": "+15555215554",
+      "deviceUUID": "1962f9c7-4e0c-3de9-b3bc-ea6173f06416"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "call-infos": [
+    {
+      "id": 1,
+      "incomingNum": "6505551212",
+      "title": "보험가입권유",
+      "description": "",
+      "receiverNum": "+821066239285",
+      "regDate": "2018-12-07 00:00:00"
+    },
+    {
+      "id": 2,
+      "incomingNum": "01074420688",
+      "title": "대출광고",
+      "description": "",
+      "receiverNum": "+821066231234",
+      "regDate": "2018-12-04 00:00:00"
+    },
+    {
+      "id": 3,
+      "incomingNum": "6505551212",
+      "title": "대출광고",
+      "description": "",
+      "receiverNum": "+821066231234",
+      "regDate": "2018-12-04 00:00:00"
+    },
+    {
+      "incomingNum": "6505556789",
+      "receiverNum": "+15555215554",
+      "title": "대출문의",
+      "id": 4
+    },
+    {
+      "incomingNum": "1087993915",
+      "receiverNum": "+15555215554",
+      "title": "사기꾼",
+      "id": 5
+    }
+  ]
 }
