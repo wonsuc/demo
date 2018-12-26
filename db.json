@@ -29,18 +29,6 @@
       "description": "",
       "receiverNum": "+821066231234",
       "regDate": "2018-12-04 00:00:00"
-    },
-    {
-      "incomingNum": "6505556789",
-      "receiverNum": "+15555215554",
-      "title": "대출문의",
-      "id": 4
-    },
-    {
-      "incomingNum": "1087993915",
-      "receiverNum": "+15555215554",
-      "title": "사기꾼",
-      "id": 5
     }
   ]
 }
